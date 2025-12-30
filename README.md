@@ -39,7 +39,7 @@ The README file lists all projects and publications (both published and under re
 |33 | Atopic Dermatitis Management Survey | Survey-based Review | Pharmaceutical sponsor | Manuscript writing | [DOI](https://doi.org/10.7759/cureus.91567) | Dermatology |
 |34 | Monthly Faricimab in Treatment-Naïve DME | Case Series | Pharmaceutical sponsor | Manuscript writing | [DOI](https://doi.org/10.7759/cureus.88475) | Ophthalmology |
 |35 | Ocrelizumab in Multiple Sclerosis | Retrospective | Pharmaceutical sponsor | Manuscript writing | Ongoing | Rare Diseases |
-|36 | Guideline-Based Elevated NT-proBNP Among Asymptomatic Adults with Diabetes in Saudi Arabia: Prevalence and Real-World Clinical Correlates | Retrospective | Investigator-initiated | Data screening and manuscript writing | [Reviews completed](https://doi.org/10.1007/s12325-025-03463-6) | Cardiology |
+|36 | Guideline-Based Elevated NT-proBNP Among Asymptomatic Adults with Diabetes in Saudi Arabia: Prevalence and Real-World Clinical Correlates | Retrospective | Investigator-initiated | Data screening and manuscript writing | [DOI](https://doi.org/10.1007/s12325-025-03463-6) | Cardiology |
 |37 | Neoadjuvant Therapy in Early Breast Cancer | Retrospective | Pharmaceutical sponsor | Manuscript writing | Reviews completed | Oncology |
 
 🔎 **Filterable version (Excel-like):**  
