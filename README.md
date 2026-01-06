@@ -26,9 +26,9 @@ The README file lists all projects and publications (both published and under re
 |20 | EBC Delphi | Delphi Consensus | Pharmaceutical sponsor | Manuscript writing | Under journal review | Oncology |
 |21 | Heart Failure Book Chapter | Book Chapter | Pharmaceutical sponsor | Writing | NA | Cardiology |
 |22 | Elobixibat Expert Opinion | Review | Pharmaceutical sponsor | Manuscript writing | Under journal review | Gastroenterology |
-|23 | Faricimab Expert Opinion | Review | Pharmaceutical sponsor | Manuscript writing | Under journal review | Ophthalmology |
+|23 | Expert Opinion on the First-Line Management of Neovascular Age-Related Macular Degeneration and Diabetic Macular Edema in India: The Role of Faricimab | Review | Pharmaceutical sponsor | Manuscript writing | [DOI](https://doi.org/10.7759/cureus.100779) | Ophthalmology |
 |24 | Friedreich Ataxia Characterization | Retrospective | Investigator-initiated | Manuscript writing | Under journal review | Neurology / Rare Diseases |
-|25 | Nucleic Acid Testing – Central India | Retrospective | Pharma / Investigator-initiated | Data analysis and manuscript writing | Under journal review | Infectious Diseases |
+|25 | Blood Safety: The Madhya Pradesh Centralized Nucleic Acid Testing (NAT) Model for Blood Donor Screening | Retrospective | Pharma / Investigator-initiated | Data analysis and manuscript writing | [DOI](https://doi.org/10.7759/cureus.100798) | Infectious Diseases |
 |26 | Nucleic Acid Testing – Western India | Retrospective | Pharma / Investigator-initiated | Data analysis and manuscript writing | Ongoing | Infectious Diseases |
 |27 | Nucleic Acid Testing Book Chapter | Book Chapter | Pharmaceutical sponsor | Writing | NA | Infectious Diseases |
 |28 | Migraine Management Consensus | Delphi Consensus | Pharmaceutical sponsor | Manuscript writing (first draft only) | Under journal review | Neurology / Medical Devices |
